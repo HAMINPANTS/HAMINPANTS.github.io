@@ -1,3 +1,3 @@
-confirm("Is this working?");
+prompt("Is this working?");
 
 
