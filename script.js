@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('#title').hide();
+  $('.menu').hide();
 });
