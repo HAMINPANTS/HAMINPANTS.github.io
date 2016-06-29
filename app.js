@@ -1,4 +1,4 @@
-var main = function(){
-  $('#title').fadeOut(600);
-};
-$(document).ready(main);
+$(document).ready(function(){
+  var name = "Steve";
+  $('#title').after('<p>Steve</p>');
+});
