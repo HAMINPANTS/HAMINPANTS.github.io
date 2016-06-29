@@ -3,6 +3,5 @@ var main = function(){
   if(thing == 1){
     confirm("Is this working?");
   };
-  $('#title').fadeOut(600);
 };
 main();
