@@ -1,4 +1,4 @@
 var main = function(){
-  $('title').hide();
+  $('.title').hide();
 };
 $(document).ready(main);
