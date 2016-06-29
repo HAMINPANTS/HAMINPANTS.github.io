@@ -3,6 +3,8 @@
 }
 
 .thing{
+	font-family:'Comic Sans MS', Avenir, Helvetica;
+	background-color:'blue';
 	top:100px;
 	left:100px;
 }
