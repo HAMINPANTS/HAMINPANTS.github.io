@@ -1,4 +1,4 @@
 var main = function(){
-  $('.title').fadeOut(1000);
+  $('#title').fadeOut(600);
 };
 $(document).ready(main);
