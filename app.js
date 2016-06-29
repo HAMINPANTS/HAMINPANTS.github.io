@@ -1,5 +1,4 @@
 var main = function(){
-  $('.title').fadeOut(0);
-  $('.title').fadeIn(600);
+  $('.title').hide();
 };
 $(document).ready(main);
